@@ -107,7 +107,7 @@ def corrMap(data, scale, corrMethod, size, dp):
     
     heatmap = sb.heatmap(corr,
                          annot = True,
-                         annot_kws = {"size": size},
+                         annot_kws = {"size": {Insert preferred size here}},
                          fmt = dp)
     
 #%% PREPROCESSING
