@@ -5,8 +5,7 @@ Code for the paper on comparing machine learning algorithms for predictive model
 Nasir Zeeshan Bashir, Zahid Rahman, Sam Li-Sheng Chen
 
 #### Links
-Paper DOI: 10.1111/jcpe.13692                                           \
-Paper link: https://onlinelibrary.wiley.com/doi/10.1111/jcpe.13692                                                                       
+[Published paper](https://onlinelibrary.wiley.com/doi/10.1111/jcpe.13692) (doi: 10.1111/jcpe.13692)
 
 ### Background
 This Python code was used to develop the compare the validity of various machine learning algorithms in the development and validation of predictive models for periodontitis. The data used were from two cross-sectional studies, one carried out in Taiwan and one in the United States. The findings were published in the Journal of Clinical Periodontology.
@@ -20,4 +19,4 @@ This Python code was used to develop the compare the validity of various machine
 ### Analysis
 The Python scripts were executed in the following order: (1) libraries.py, (2) functions.py, (3) preproc_taiwan.py, (4) preproc_nhanes.py, (5) tuning.py, (6) validating.py. It is not possible to generically run these on any dataset as much of the model tuning and validation is specific to our data and variables. These scripts should be adjusted and the hyperparameters adjusted appropriately for your analysis purposes.
 
-##### Python v3.9.7
+**Python v3.9.7**
