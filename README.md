@@ -8,7 +8,7 @@ Nasir Zeeshan Bashir, Zahid Rahman, Sam Li-Sheng Chen
 [Published paper](https://onlinelibrary.wiley.com/doi/10.1111/jcpe.13692) (doi: 10.1111/jcpe.13692)
 
 ### Background
-This Python code was used to develop the compare the validity of various machine learning algorithms in the development and validation of predictive models for periodontitis. The data used were from two cross-sectional studies, one carried out in Taiwan and one in the United States. The findings were published in the Journal of Clinical Periodontology.
+This Python code was used to compare the validity of various machine learning algorithms in the development and validation of predictive models for periodontitis. The data used were from two cross-sectional studies, one carried out in Taiwan and one in the United States. The findings were published in the Journal of Clinical Periodontology.
 
 ### Abstract
 **Aim:** The aim of this study was to compare the validity of different machine learning algorithms to develop and validate predictive models for periodontitis. \
